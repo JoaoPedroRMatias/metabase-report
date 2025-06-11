@@ -1,6 +1,10 @@
 # FastAPI + Metabase Dashboard
 Este projeto é uma aplicação web simples usando **FastAPI** para exibir um **dashboard público do Metabase** com HTML e CSS externos.
 
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/a1406bc4-f710-4bae-884b-8c2fc8fd022d" width="300">
+</div>
+
 ## Tecnologias utilizadas
 - [FastAPI](https://fastapi.tiangolo.com/)
 - [Uvicorn](https://www.uvicorn.org/)
